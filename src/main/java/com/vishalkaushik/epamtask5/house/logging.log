@@ -1,0 +1,10 @@
+2020-07-20 23:47:54 INFO  HouseMain:27 - Enter total area of house
+2020-07-20 23:48:01 INFO  HouseMain:29 - Do you want fully automated home? if yes enter 1 else enter 0
+2020-07-20 23:48:14 INFO  HouseMain:34 - Automated home cost estimation= 85000.0
+2020-07-20 23:48:14 INFO  HouseMain:35 - Do you want to continue? if yes enter 1 else enter 0
+2020-07-20 23:48:25 INFO  HouseMain:41 - Thank you!!
+2020-07-20 23:58:36 INFO  Interest:22 - enter principle amount
+2020-07-20 23:58:42 INFO  Interest:24 - enter time period
+2020-07-20 23:58:45 INFO  Interest:26 - enter rate of interest
+2020-07-20 23:58:49 INFO  Interest:31 - SimpleInterest=36.0
+2020-07-20 23:58:49 INFO  Interest:33 - CompoundInterest=140.4928

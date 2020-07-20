@@ -1,0 +1,5 @@
+2020-07-21 00:00:27 INFO  Interest:22 - enter principle amount
+2020-07-21 00:00:31 INFO  Interest:24 - enter time period
+2020-07-21 00:00:33 INFO  Interest:26 - enter rate of interest
+2020-07-21 00:00:36 INFO  Interest:31 - SimpleInterest=18.0
+2020-07-21 00:00:36 INFO  Interest:33 - CompoundInterest=118.810005
